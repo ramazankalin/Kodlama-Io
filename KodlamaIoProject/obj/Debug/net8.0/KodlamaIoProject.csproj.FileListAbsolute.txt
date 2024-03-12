@@ -1,0 +1,14 @@
+C:\Users\ramaz\source\repos\KodlamaIoProject\KodlamaIoProject\bin\Debug\net8.0\KodlamaIoProject.exe
+C:\Users\ramaz\source\repos\KodlamaIoProject\KodlamaIoProject\bin\Debug\net8.0\KodlamaIoProject.deps.json
+C:\Users\ramaz\source\repos\KodlamaIoProject\KodlamaIoProject\bin\Debug\net8.0\KodlamaIoProject.runtimeconfig.json
+C:\Users\ramaz\source\repos\KodlamaIoProject\KodlamaIoProject\bin\Debug\net8.0\KodlamaIoProject.dll
+C:\Users\ramaz\source\repos\KodlamaIoProject\KodlamaIoProject\bin\Debug\net8.0\KodlamaIoProject.pdb
+C:\Users\ramaz\source\repos\KodlamaIoProject\KodlamaIoProject\obj\Debug\net8.0\KodlamaIoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramaz\source\repos\KodlamaIoProject\KodlamaIoProject\obj\Debug\net8.0\KodlamaIoProject.AssemblyInfoInputs.cache
+C:\Users\ramaz\source\repos\KodlamaIoProject\KodlamaIoProject\obj\Debug\net8.0\KodlamaIoProject.AssemblyInfo.cs
+C:\Users\ramaz\source\repos\KodlamaIoProject\KodlamaIoProject\obj\Debug\net8.0\KodlamaIoProject.csproj.CoreCompileInputs.cache
+C:\Users\ramaz\source\repos\KodlamaIoProject\KodlamaIoProject\obj\Debug\net8.0\KodlamaIoProject.dll
+C:\Users\ramaz\source\repos\KodlamaIoProject\KodlamaIoProject\obj\Debug\net8.0\refint\KodlamaIoProject.dll
+C:\Users\ramaz\source\repos\KodlamaIoProject\KodlamaIoProject\obj\Debug\net8.0\KodlamaIoProject.pdb
+C:\Users\ramaz\source\repos\KodlamaIoProject\KodlamaIoProject\obj\Debug\net8.0\KodlamaIoProject.genruntimeconfig.cache
+C:\Users\ramaz\source\repos\KodlamaIoProject\KodlamaIoProject\obj\Debug\net8.0\ref\KodlamaIoProject.dll
